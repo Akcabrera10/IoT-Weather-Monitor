@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Arvyn\Desktop\NEHD\TCPSRV\TCP_SRV\TCP_SRV\Source.c(35,9): warning C4101: 'iSendResult': unreferenced local variable
+  TCP_SRV.vcxproj -> C:\Users\Arvyn\Desktop\NEHD\TCPSRV\TCP_SRV\x64\Debug\TCP_SRV.exe

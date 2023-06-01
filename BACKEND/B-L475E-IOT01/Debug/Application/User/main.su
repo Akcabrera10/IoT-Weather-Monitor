@@ -1,0 +1,5 @@
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/WiFi_Client_Server/Src/main.c:81:5:main	720	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/WiFi_Client_Server/Src/main.c:263:10:Serial_Scanf	8	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/WiFi_Client_Server/Src/main.c:320:1:__io_putchar	16	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/WiFi_Client_Server/Src/main.c:355:6:HAL_GPIO_EXTI_Callback	0	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/WiFi_Client_Server/Src/main.c:371:6:SPI3_IRQHandler	0	static

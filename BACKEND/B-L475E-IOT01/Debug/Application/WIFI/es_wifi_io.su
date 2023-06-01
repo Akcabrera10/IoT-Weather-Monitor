@@ -1,0 +1,12 @@
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:445:6:SPI_WIFI_DelayUs	32	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:309:12:wait_spi_tx_event.isra	16	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:72:6:SPI_WIFI_MspInit	64	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:200:8:SPI_WIFI_ResetModule	32	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:144:8:SPI_WIFI_Init	24	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:237:8:SPI_WIFI_DeInit	8	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:327:9:SPI_WIFI_ReceiveData	48	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:387:9:SPI_WIFI_SendData	40	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:435:6:SPI_WIFI_Delay	0	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:477:6:HAL_SPI_RxCpltCallback	0	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:492:6:HAL_SPI_TxCpltCallback	0	static
+C:/Users/Arvyn/Desktop/STM32CubeL4-master/Projects/B-L475E-IOT01A/Applications/WiFi/Common/Src/es_wifi_io.c:507:9:SPI_WIFI_ISR	0	static

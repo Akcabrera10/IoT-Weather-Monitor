@@ -1,0 +1,6 @@
+sensors.c:44:7:Pressure_Test	1
+sensors.c:58:7:Humidity_Test	1
+sensors.c:72:7:Temperature_Test	1
+sensors.c:91:6:Accelero_Test	1
+sensors.c:107:6:Gyro_Test	1
+sensors.c:120:6:Magneto_Test	1

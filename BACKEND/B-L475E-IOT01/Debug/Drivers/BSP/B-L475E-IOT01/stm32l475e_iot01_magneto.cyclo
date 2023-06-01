@@ -1,0 +1,4 @@
+stm32l475e_iot01_magneto.c:52:23:BSP_MAGNETO_Init	2
+stm32l475e_iot01_magneto.c:83:6:BSP_MAGNETO_DeInit	3
+stm32l475e_iot01_magneto.c:98:6:BSP_MAGNETO_LowPower	3
+stm32l475e_iot01_magneto.c:115:6:BSP_MAGNETO_GetXYZ	3

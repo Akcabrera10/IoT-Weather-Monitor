@@ -1,0 +1,6 @@
+../Application/User/sensors.c:44:7:Pressure_Test	8	static
+../Application/User/sensors.c:58:7:Humidity_Test	8	static
+../Application/User/sensors.c:72:7:Temperature_Test	8	static
+../Application/User/sensors.c:91:6:Accelero_Test	16	static
+../Application/User/sensors.c:107:6:Gyro_Test	16	static
+../Application/User/sensors.c:120:6:Magneto_Test	16	static
