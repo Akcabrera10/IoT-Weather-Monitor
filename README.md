@@ -5,7 +5,7 @@ STM32 microcontroller collects sensor data and transmits it over the internet us
 
 ### `C, PHP, MySQL, and STM32CubeMX`
 
--
+----
 
 # About this project
 ![Image 1](./images/p1.png)
